@@ -1,0 +1,27 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "sambadevi/powerlevel9k"
+brew "archey"
+brew "coreutils"
+brew "mas"
+brew "wget"
+brew "wifi-password"
+brew "zsh-syntax-highlighting"
+brew "sambadevi/powerlevel9k/powerlevel9k"
+cask "flux"
+mas "Adblock Plus", id: 1432731683
+mas "BetterSnapTool", id: 417375580
+mas "Fantastical", id: 975937182
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Microsoft To Do", id: 1274495053
+mas "OneDrive", id: 823766827
+mas "Reeder", id: 1449412482
+mas "Remote Desktop", id: 409907375
+mas "Resize Master", id: 1025306797
+mas "Slack", id: 803453959
+mas "Speedtest", id: 1153157709
+mas "Table Tool", id: 1122008420
+mas "WiFi Explorer", id: 494803304
+mas "Wunderlist", id: 410628904
+mas "Xcode", id: 497799835
