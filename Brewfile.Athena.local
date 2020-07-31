@@ -13,6 +13,7 @@ cask "flux"
 mas "Adblock Plus", id: 1432731683
 mas "BetterSnapTool", id: 417375580
 mas "Fantastical", id: 975937182
+mas "MediaInfo", id: 510620098
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Microsoft To Do", id: 1274495053
 mas "OneDrive", id: 823766827
